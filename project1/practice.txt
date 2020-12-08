@@ -1,0 +1,84 @@
+<ScrollView>
+      <View style={styles.container}>
+        {/* <View style={styles.main1}>
+        <Text>Class 3</Text>
+      </View>
+      <View style={styles.main2}>
+        <View style={styles.boxes}>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+          <View style={styles.items}>
+            <Text>Item</Text>
+          </View>
+        </View>
+      </View>
+      <View style={styles.main3}>
+        <Text>Footer</Text>
+      </View> */}
+        {/* <View style={styles.carView}> */}
+        {/* <Image style={styles.carImage} source={require("./assets/car.png")} /> */}
+        {/* <Image
+          style={styles.carImage}
+          source={{
+            uri:
+              "http://thewowstyle.com/wp-content/uploads/2015/02/Audi-car-wallpaper-1.jpg",
+          }}
+        /> */}
+        {/* </View> */}
+        {/* <TextInput
+          style={styles.inpputtext}
+          onChangeText={(e) => console.log(e)}
+          placeholder="Enter Name" */}
+        {/* // REad Documentation
+          // keyboardType={"number-pad"}
+          // secureTextEntry={true}    for password
+        /> */}
+        {/* <Button title={"Click me"} onPress={() => alert("hello")} /> */}
+        {/* <TouchableOpacity
+          onPress={() => alert("yooo")}
+          TouchableOpacity={0.8}
+          style={styles.btn}
+        >
+          <Text style={{ color: "white", textAlign: "center" }}>Click me</Text>
+        </TouchableOpacity> */}
+        <StatusBar style="auto" />
+        {/* <View style={styles.card}>
+          <Text style={styles.cardText}>Happy Ending!!</Text>
+        https://ethercreative.github.io/react-native-shadow-generator/
+        </View> */}
+        {/* <ImageBackground
+          style={{
+            width: "100%",
+            height: 800,
+            resizeBy: "contain",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+          source={{
+            uri:
+              "https://themobilewallpaper.com/uploads/blog_images/Crate-Drop-PlayerUnknowns-Battlegrounds-PUBG-HD-Mobile-Wallpaper.jpg",
+          }}
+        >
+          <Text style={{ fontSize: 45, color: "white", fontWeight: "bold" }}>
+            Login
+            <ActivityIndicator size="large" color="red" />
+          </Text>
+        </ImageBackground>
+      </View>
+    </ScrollView> */}
